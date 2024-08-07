@@ -1,9 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <IsPackable>false</IsPackable>
-    <IsTestProject>true</IsTestProject>
-  </PropertyGroup>
+	<PropertyGroup>
+		<IsPackable>false</IsPackable>
+		<IsTestProject>true</IsTestProject>
+	</PropertyGroup>
 
 	<ItemGroup>
 		<PackageReference Include="coverlet.collector" Version="6.0.2">
@@ -18,8 +18,8 @@
 		</PackageReference>
 	</ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\TylerDM.StandardLibrary.Web\TylerDM.StandardLibrary.Web.csproj" />
-  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\TylerDM.StandardLibrary.Web\TylerDM.StandardLibrary.Web.csproj" />
+	</ItemGroup>
 
 </Project>
