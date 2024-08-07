@@ -23,4 +23,9 @@
 		</WarningsAsErrors>
 	</PropertyGroup>
 
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<RootNamespace>TylerDM.StandardLibrary.Web</RootNamespace>
+	</PropertyGroup>
+
 </Project>

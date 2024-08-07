@@ -1,4 +1,4 @@
-﻿namespace TylerDM.StandardLibrary;
+﻿namespace TylerDM.StandardLibrary.Web;
 
 public static class Startup
 {

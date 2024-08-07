@@ -1,4 +1,4 @@
-namespace TylerDM.StandardLibrary.Parameters;
+namespace TylerDM.StandardLibrary.Web.Parameters;
 
 public record WebParameter(
 	string Name,
