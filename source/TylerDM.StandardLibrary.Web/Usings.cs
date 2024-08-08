@@ -7,3 +7,4 @@ global using System.Net.Http;
 global using TylerDM.StandardLibrary.System.Linq;
 global using TylerDM.StandardLibrary.System.Text;
 global using System;
+global using TylerDM.StandardLibrary.System.Collections.Generic;
